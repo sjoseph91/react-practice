@@ -1,0 +1,23 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjoseph91/react-practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sjoseph91/react-practice/issues"
+  },
+  "homepage": "https://github.com/sjoseph91/react-practice#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0"
+  }
+}
